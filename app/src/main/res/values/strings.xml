@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TicketSales</string>
+    <string name="tv_name">Adriano Maciel Sanchez</string>
+    <string name="tv_ra">1110482313018</string>
+    <string name="tv_main_activity_title">Comprar Ingresso</string>
+    <string name="rb_normal_ticket">Convencional</string>
+    <string name="rb_vip_ticket">VIP</string>
+    <string name="tv_value_prefix">Valor: R$</string>
+    <string name="tv_final_value_prefix">Valor final: R$</string>
+    <string name="tv_vip_final_value_note">(+18% já embutido)</string>
+    <string name="et_buyer_function">Função</string>
+    <string name="bt_buy">Comprar</string>
+    <string name="txt_ticket_id_prefix">ticket</string>
+    <string name="txt_invalid_buyer_function_exception">Função inválida!</string>
+    <string name="txt_error_alert_title">Erro!</string>
+    <string name="tv_sale_data_activity_title">Dados da Compra</string>
+    <string name="tv_normal_ticket_name">Ingresso Convencional</string>
+    <string name="tv_vip_ticket_name">Ingresso VIP</string>
+    <string name="tv_sale_value_label">Valor</string>
+    <string name="tv_sale_value_prefix">R$</string>
+    <string name="bt_back">Voltar</string>
+</resources>
